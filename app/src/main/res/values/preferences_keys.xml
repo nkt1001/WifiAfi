@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_last_level">key_last_level</string>
+    <string name="key_is_working">key_is_working</string>
+    <string name="key_increase_percent">key_increase_percent</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WifiBooster</string>
+    <string name="boost2">Just click the boost button!</string>
+    <string name="boost1">The easiest way to boost your WiFi</string>
+    <string name="wifi_enable">Please enable Wi-Fi</string>
+    <string name="boosted">Your Wi-Fi has been boosted for %s percent</string>
+    <string name="info">Your Wi-Fi works for %s percent</string>
+    <string name="info_service">Your Wi-Fi works for %s percent</string>
+    <string name="enable_boost">Enable Boost</string>
+    <string name="disable_boost">Disable Boost</string>
+    <string name="boost_diasbled">WiFi boost has been disabled</string>
+</resources>
